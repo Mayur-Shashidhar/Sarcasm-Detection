@@ -105,7 +105,10 @@ This project uses the **News Headlines Sarcasm Dataset** from Kaggle.
   * `headline` → text
   * `is_sarcastic` → label (0 or 1)
 
-Additionally, a second dataset is used for **cross-dataset evaluation**.
+Download it from:
+[https://www.kaggle.com/search?q=News+Headlines+Sarcasm+Dataset]
+
+Note: Dataset is subject to its own license.
 
 ---
 
